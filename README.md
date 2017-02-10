@@ -2,8 +2,8 @@
 
 #Screenshot
 ![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/1.PNG)<br>
-![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/11.PNG)<br>
 ![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/2.PNG)<br>
+![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/11.PNG)<br>
 ![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/3.PNG)<br>
 ![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/4.PNG)<br>
 ![Image](https://github.com/arnettarahma/BCA-Sawojajar/blob/master/5.PNG)<br>
