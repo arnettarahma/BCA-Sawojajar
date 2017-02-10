@@ -121,7 +121,7 @@ public class setor extends javax.swing.JFrame {
                     "Transaksi Gagal",0);
         }
         else if(jmlsetor<=50000){
-            JOptionPane.showMessageDialog(null, "Besaran minimal pengambilan tunai adalah Rp 50000",
+            JOptionPane.showMessageDialog(null, "Besaran minimal penyetoran adalah Rp 50000",
                     "Transaksi Gagal",0);     
         }else if(jmlsetor>=50000){
             JOptionPane.showMessageDialog(null, "Terimakasih telah melakukan penyetoran. Sisa saldo anda adalah Rp "+saldoakhir);
